@@ -8,6 +8,11 @@ spring:
           uri: https://github.com/eddiepengdenvren/config-repo
           username: 136351717@qq.com
           password: 159xiaoai
+  rabbitmq:
+      host: 10.253.1.19
+      port: 5672
+      username: digibig
+      password: digibig
 eureka:
   client:
     service-url:
